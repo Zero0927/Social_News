@@ -1,0 +1,26 @@
+{
+  "name": "socialnews",
+  "version": "1.0.0",
+  "description": "web app pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zero0927/Social_News.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Scott Zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zero0927/Social_News/issues"
+  },
+  "homepage": "https://github.com/Zero0927/Social_News#readme",
+  "dependencies": {
+    "multer": "^1.4.2"
+  }
+}
